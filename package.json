@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "othello-game-trpc",
   "private": true,
   "scripts": {
     "build": "turbo run build",
