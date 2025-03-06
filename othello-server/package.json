@@ -1,5 +1,5 @@
 {
-  "name": "othello-game-trpc",
+  "name": "othello-server",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -9,13 +9,9 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
-    "@types/node": "^22.13.9",
     "prettier": "^3.5.3",
-    "ts-node": "^10.9.2",
-    "tsup": "^8.4.0",
     "turbo": "^2.4.4",
-    "typescript": "5.8.2",
-    "vitest": "^3.0.7"
+    "typescript": "5.8.2"
   },
   "packageManager": "pnpm@9.0.0",
   "engines": {
